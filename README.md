@@ -1,4 +1,4 @@
-# RoboSubLA Seaking 2022-2023
+# RoboSubLA Wailord 2022-2023
 
 ## Welcome to RoboSubLA!
 
@@ -15,12 +15,12 @@ repositories. If you only need one or a handful of repositories
 to work with your teams, only clone the few you do.
 
 ```
-git clone git@github.com:RoboSubCSULA/seaking_frame.git
-git clone git@github.com:RoboSubCSULA/seaking_actuators.git
-git clone git@github.com:RoboSubCSULA/seaking_electrical.git
-git clone git@github.com:RoboSubCSULA/seaking_controls.git
-git clone git@github.com:RoboSubCSULA/seaking_autonomy.git
-git clone git@github.com:RoboSubCSULA/seaking_vision.git
+git clone git@github.com:RoboSubCSULA/wailord_frame.git
+git clone git@github.com:RoboSubCSULA/wailord_actuators.git
+git clone git@github.com:RoboSubCSULA/wailord_electrical.git
+git clone git@github.com:RoboSubCSULA/wailord_controls.git
+git clone git@github.com:RoboSubCSULA/wailord_autonomy.git
+git clone git@github.com:RoboSubCSULA/wailord_vision.git
 ```
 
 If you'd instead like to clone all repositories, a simple batch
