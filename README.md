@@ -8,11 +8,40 @@ will find pull request templates, best practices, and a
 small collection of useful scripts for managing your local
 copies of repositories.
 
+Speaking of repositories, below is a list of relevant links
+for each subteam:
+
+### Frame & Hull
+[Frame Repository](https://github.com/RoboSubCSULA/wailord_frame)  
+[Solidworks Education](www.solidworks.com/sek)
+
+### Actuated Systems
+**TBD**
+
+### Electrical
+[Electrical Repository](https://github.com/RoboSubCSULA/wailord_electrical)  
+[KiCAD Download](https://www.kicad.org/download/)
+
+### Controls
+[Controls Repository](https://github.com/RoboSubCSULA/lanturn_controls)  
+[VSCode Download](https://code.visualstudio.com/download)  
+[Platform.io](https://platformio.org/platformio-ide)
+
+### Autonomy
+[Autonomy Repository](https://github.com/RoboSubCSULA/wailord_autonomy)  
+[ROS](https://www.ros.org/)
+
+### Computer Vision
+[Vision Repository](https://github.com/RoboSubCSULA/wailord_vision)  
+[OpenCV](https://opencv.org/)
+
 ## Installing the Repositories
 
 Below, you can find a list of git commands to clone our various
 repositories. If you only need one or a handful of repositories
 to work with your teams, only clone the few you do.
+
+If cloning repositories manually, make sure you use the **SSH** URL.
 
 ```
 git clone git@github.com:RoboSubCSULA/wailord_frame.git
@@ -27,7 +56,7 @@ If you'd instead like to clone all repositories, a simple batch
 script can be found at `./scripts/clone_all_repos.bat` and will clone
 all repositories to the same folder level as this one.
 
-**Be sure to run this script from within `./scripts`!**
+**Be sure to run this script from within `./scripts`!**  
 
 ## Installing Dependencies
 
