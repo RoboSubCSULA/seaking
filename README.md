@@ -23,7 +23,7 @@ for each subteam:
 [KiCAD Download](https://www.kicad.org/download/)
 
 ### Controls
-[Controls Repository](https://github.com/RoboSubCSULA/lanturn_controls)  
+[Controls Repository](https://github.com/RoboSubCSULA/wailord_controls)  
 [VSCode Download](https://code.visualstudio.com/download)  
 [Platform.io](https://platformio.org/platformio-ide)
 
